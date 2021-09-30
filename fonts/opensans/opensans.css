@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('regular/OpenSans-Regular-webfont.eot');
+    src: url('regular/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('regular/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('regular/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('bold/OpenSans-Bold-webfont.eot');
+    src: url('bold/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('bold/OpenSans-Bold-webfont.ttf') format('truetype'),
+         url('bold/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('bold_italic/OpenSans-BoldItalic-webfont.eot');
+    src: url('bold_italic/OpenSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('bold_italic/OpenSans-BoldItalic-webfont.ttf') format('truetype'),
+         url('bold_italic/OpenSans-BoldItalic-webfont.svg#open_sansbold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}

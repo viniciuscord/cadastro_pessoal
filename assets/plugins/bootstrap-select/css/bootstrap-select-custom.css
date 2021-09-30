@@ -1,0 +1,5 @@
+﻿/*referencie os elementos com a classe .bootstrap-select-form*/ 
+
+.bootstrap-select-form .actions-btn {
+    width: 33.33% !important;
+}

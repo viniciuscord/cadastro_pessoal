@@ -1,0 +1,1 @@
+<h2>Navegador ainda não suportado pela aplicação, favor acessar via Mozilla Firefox ou Google Chrome.</h2>

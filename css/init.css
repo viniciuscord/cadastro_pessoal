@@ -1,0 +1,47 @@
+.loading{
+	position:fixed;
+	top:0px;	
+	left:0px;	
+	bottom:0px;	
+	right:0px;	
+	height:100%;
+	width:100%;
+	background:url(../images/loading.gif) center no-repeat;
+	z-index:9999;
+}
+
+.loading-screen{
+	position:fixed;
+	top:0px;	
+	left:0px;	
+	bottom:0px;	
+	right:0px;	
+	height:100%;
+	width:100%;
+	background:#ffffff url(../images/loading.gif) center no-repeat;
+	opacity: 0.5;
+	z-index:9999;
+}
+
+.loading-ele{
+	height: 16px;
+    min-width:16px;
+    width:100%;        
+    background-image:url('../images/loading.gif');
+    background-repeat:no-repeat; 
+    background-position: center 
+	
+}
+
+.modal-content{
+	border-radius: 8px;
+}
+
+.form-control{
+	border-radius: 4px;
+}
+
+.btn{
+	border-radius: 4px;
+}
+
